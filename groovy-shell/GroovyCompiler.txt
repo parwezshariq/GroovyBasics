@@ -1,0 +1,68 @@
+
+C:\Users\shariqparwez\Groovy>groovyc GettingGroovy.groovy
+
+==============================================================================================
+
+C:\Users\shariqparwez\Groovy>groovy GettingGroovy.class
+org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+C:\Users\shariqparwez\Groovy\GettingGroovy.class: 1: Unexpected input: '?' @ line 1, column 1.
+   ????   4 r
+   ^
+
+1 error
+
+=================================================================================================
+
+C:\Users\shariqparwez\Groovy>groovy GettingGroovy.groovy
+Let's Get Groovy!
+
+=================================================================================================
+
+C:\Users\shariqparwez\Groovy>dir
+ Volume in drive C is Windows
+ Volume Serial Number is DE5D-E9CA
+
+ Directory of C:\Users\shariqparwez\Groovy
+
+02-07-2020  09:03    <DIR>          .
+02-07-2020  09:03    <DIR>          ..
+02-07-2020  09:03             2,342 GettingGroovy.class
+02-07-2020  08:58                27 GettingGroovy.groovy
+01-07-2020  20:03             3,195 Groovy - Basics
+               3 File(s)          5,564 bytes
+               2 Dir(s)  51,223,359,488 bytes free
+			   
+==================================================================================================
+
+C:\Users\shariqparwez\Groovy>del GettingGroovy.class
+
+C:\Users\shariqparwez\Groovy>dir
+ Volume in drive C is Windows
+ Volume Serial Number is DE5D-E9CA
+
+ Directory of C:\Users\shariqparwez\Groovy
+
+02-07-2020  09:07    <DIR>          .
+02-07-2020  09:07    <DIR>          ..
+02-07-2020  08:58                27 GettingGroovy.groovy
+01-07-2020  20:03             3,195 Groovy - Basics
+               2 File(s)          3,222 bytes
+               2 Dir(s)  51,226,484,736 bytes free
+
+C:\Users\shariqparwez\Groovy>groovy GettingGroovy.groovy
+Let's Get Groovy!
+
+C:\Users\shariqparwez\Groovy>dir
+ Volume in drive C is Windows
+ Volume Serial Number is DE5D-E9CA
+
+ Directory of C:\Users\shariqparwez\Groovy
+
+02-07-2020  09:07    <DIR>          .
+02-07-2020  09:07    <DIR>          ..
+02-07-2020  08:58                27 GettingGroovy.groovy
+01-07-2020  20:03             3,195 Groovy - Basics
+               2 File(s)          3,222 bytes
+               2 Dir(s)  51,225,755,648 bytes free
+			   
+=======================================================================================================

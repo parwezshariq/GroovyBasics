@@ -1,0 +1,25 @@
+C:\Users\shariqparwez\Groovy>groovy NewFeaturesInGroovy.groovy
+500
+600
+700
+800
+900
+
+C:\Users\shariqparwez\Groovy>groovy NewFeaturesInGroovy.groovy
+500
+600
+700
+800
+900
+
+C:\Users\shariqparwez\Groovy>groovy NewFeaturesInGroovy.groovy
+500
+600
+700
+800
+900
+
+C:\Users\shariqparwez\Groovy>groovy NewFeaturesInGroovy.groovy
+700
+800
+900

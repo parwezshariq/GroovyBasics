@@ -1,0 +1,16 @@
+C:\Users\shariqparwez\Groovy>groovy ActivityCounter.groovy
+You have completed 5 activities today.
+
+C:\Users\shariqparwez\Groovy>groovy ActivityCounter.groovy
+You have completed 5 activities today.
+
+C:\Users\shariqparwez\Groovy>groovy ActivityCounter.groovy
+You have completed 6 activities today.
+
+C:\Users\shariqparwez\Groovy>groovy ActivityCounter.groovy
+You have completed 6 activities today.
+You now have 5 activities remaining.
+
+C:\Users\shariqparwez\Groovy>groovy ActivityCounter.groovy
+You have completed 6 activities today.
+You now have 5 activities remaining.

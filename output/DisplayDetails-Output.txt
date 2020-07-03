@@ -1,0 +1,17 @@
+C:\Users\shariqparwez\Groovy>groovy DisplayDetails.groovy
+Recipient: Leaky Pipes Plumbing
+Address: joe@leakypipes.com
+Date: Fri Jul 03 20:48:03 IST 2020
+Summary: Send Joe a list of pricing options for his spring ad campaign
+
+C:\Users\shariqparwez\Groovy>groovy DisplayDetails.groovy
+Recipient: Leaky Pipes Plumbing
+Address: joe@leakypipes.com
+Date: Fri Jul 03 20:51:30 IST 2020
+Summary: Send Joe a list of pricing options for his spring ad campaign
+
+C:\Users\shariqparwez\Groovy>groovy DisplayDetails.groovy
+Recipient: Leaky Pipes Plumbing
+Address: joe@leakypipes.com
+Date: Fri Jul 03 20:53:15 IST 2020
+Summary: Send Joe a list of pricing options for his spring ad campaign

@@ -1,0 +1,33 @@
+C:\Users\shariqparwez>groovysh
+Groovy Shell (3.0.4, JVM: 12.0.1)
+Type ':help' or ':h' for help.
+-----------------------------------------------------------------------------------------------------------------------
+groovy:000> println 1+2
+3
+===> null
+groovy:000> println 3-2
+1
+===> null
+groovy:000> println 3*2
+6
+===> null
+groovy:000> println 6/3
+2
+===> null
+groovy:000> println 6%3
+0
+===> null
+groovy:000> println 7%3
+1
+===> null
+groovy:000> println 3**2
+9
+===> null
+groovy:000> println 1+2
+3
+===> null
+groovy:000> println "1"+"2"
+12
+===> null
+
+=========================================================================================================================

@@ -1,0 +1,2 @@
+C:\Users\shariqparwez\Groovy>groovy GettingGroovy.groovy
+Let's Get Groovy!

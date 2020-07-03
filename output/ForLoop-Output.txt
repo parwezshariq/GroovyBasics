@@ -1,0 +1,23 @@
+C:\Users\shariqparwez\Groovy>groovy ForLoop.groovy
+Found an opportunity of 1000
+Total opportunity is now 1000
+Found an opportunity of 2000
+Total opportunity is now 3000
+Found an opportunity of 3000
+Total opportunity is now 6000
+Found an opportunity of 4000
+Total opportunity is now 10000
+Found an opportunity of 5000
+Total opportunity is now 15000
+
+C:\Users\shariqparwez\Groovy>groovy ForLoop.groovy
+Found an opportunity of 1000
+Total opportunity is now 1000
+Found an opportunity of 2000
+Total opportunity is now 3000
+Found an opportunity of 3000
+Total opportunity is now 6000
+Found an opportunity of 4000
+Total opportunity is now 10000
+Found an opportunity of 5000
+Total opportunity is now 15000

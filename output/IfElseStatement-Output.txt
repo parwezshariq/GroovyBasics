@@ -1,0 +1,8 @@
+C:\Users\shariqparwez\Groovy>groovy IfElseStatement.groovy
+The best approach for opportunities of this size is email.
+
+C:\Users\shariqparwez\Groovy>groovy IfElseStatement.groovy
+The best approach for opportunities of this size is telephone.
+
+C:\Users\shariqparwez\Groovy>groovy IfElseStatement.groovy
+The best approach for opportunities of this size is face to face.
